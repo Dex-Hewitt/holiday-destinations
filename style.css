@@ -40,31 +40,31 @@ div.background-img {
 }
 
 #img-1 {
-    background-image: url("imgs/1.jpg");
+    background-image: url("imgs/tokyo.jpg");
 }
 
 #img-2 {
-    background-image: url("imgs/2.jpg");
+    background-image: url("imgs/lake-louise.jpg");
 }
 
 #img-3 {
-    background-image: url("imgs/3.jpg");
+    background-image: url("imgs/santorini.jpg");
 }
 
 #img-4 {
-    background-image: url("imgs/4.jpg");
+    background-image: url("imgs/fjords.jpg");
 }
 
 #img-5 {
-    background-image: url("imgs/5.jpg");
+    background-image: url("imgs/uluru.jpg");
 }
 
 #img-6 {
-    background-image: url("imgs/6.jpg");
+    background-image: url("imgs/kaohsiung.jpg");
 }
 
 #img-7 {
-    background-image: url("imgs/7.jpg");
+    background-image: url("imgs/venice.jpg");
 }
 
 .background-img:hover {
